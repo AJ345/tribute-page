@@ -1,0 +1,33 @@
+#main {
+  background-color: lightblue;
+  font-family: "Gelasio";
+}
+
+#title {
+  text-align: center;
+
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.quotes {
+  text-align : center; 
+  margin-bottom: 200px; 
+}
+
+#img-div {
+  text-align: center; 
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkturquoise;
+  color: white;
+  text-align: center;
+}
